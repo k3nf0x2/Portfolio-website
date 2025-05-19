@@ -1,0 +1,18 @@
+body {
+    background-color: #f0f0f0;
+    font-family: monospace, serif, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: navy;
+}
+
+pre {
+    font-size: 18px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
