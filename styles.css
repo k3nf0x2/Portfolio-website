@@ -1,14 +1,15 @@
 body {
-    background-color: #f0f0f0;
+    background-color: black;
     font-family: monospace, serif, Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
 h1 {
-    color: navy;
+    color: greenyellow;
 }
 
 pre {
+    color: powderblue;
     font-size: 18px;
 }
 
